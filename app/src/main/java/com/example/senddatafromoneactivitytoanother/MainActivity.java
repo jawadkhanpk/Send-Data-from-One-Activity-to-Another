@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // function
     private void sendData() {
 
         name = etname.getText().toString().trim();
