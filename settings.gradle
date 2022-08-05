@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Send Data from One Activity to Another"
